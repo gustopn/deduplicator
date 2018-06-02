@@ -18,4 +18,4 @@ are different. If they are not diffrent (so being the same) it removes the secon
 And that is being done also for a list of files.
 
 Take care there and be sure that the part where files are removed is working properly,
-otherwise you RISK looing data. Consider yourself warned!
+otherwise you RISK loosing data. Consider yourself warned!
