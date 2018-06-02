@@ -27,3 +27,8 @@ where it checks 2 files against each other - with "cmp" command, is very innefec
 on HDDs - does not apply to SSDs).
 
 I deduplicated 1.4T out of 7.3T filesystem using this script. So this is no joke.
+
+# bugs
+Maybe, but first of all there is a lot of room for improvement. I know. ;-)
+It just happened to be good enough for me. However, I am planning to improve
+on the shortcommings I know well of as soon as I have time for it.
