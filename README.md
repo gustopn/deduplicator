@@ -19,3 +19,11 @@ And that is being done also for a list of files.
 
 Take care there and be sure that the part where files are removed is working properly,
 otherwise you RISK loosing data. Consider yourself warned!
+
+# use case
+This script was tested, on my files. It is however only effective with big files, like
+large numbers of media files. And even there it could be optimized a lot (especially 
+where it checks 2 files against each other - with "cmp" command, is very innefective
+on HDDs - does not apply to SSDs).
+
+I deduplicated 1.4T out of 7.3T filesystem using this script. So this is no joke.
