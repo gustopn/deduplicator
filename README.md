@@ -36,3 +36,9 @@ I deduplicated 1.4T out of 7.3T filesystem using this script. So this is no joke
 Maybe, but first of all there is a lot of room for improvement. I know. ;-)
 It just happened to be good enough for me. However, I am planning to improve
 on the shortcommings I know well of as soon as I have time for it.
+
+# limitations
+Currently this script only works on GNU/Linux since it is dependent on GNU
+userland for tools used. In future it would be desirable to make it compatible
+with other operating system userlands. That's one of the more shortcommings
+of this script I know well of.
