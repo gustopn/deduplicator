@@ -20,6 +20,10 @@ And that is being done also for a list of files.
 Take care there and be sure that the part where files are removed is working properly,
 otherwise you RISK loosing data. Consider yourself warned!
 
+# empty dirs remover
+Yes, after deduplication there will be lots of empty dirs on the filesystem,
+so I also wrote a script that removes those. This is also in the good-enough quality.
+
 # use case
 This script was tested, on my files. It is however only effective with big files, like
 large numbers of media files. And even there it could be optimized a lot (especially 
